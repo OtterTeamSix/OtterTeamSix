@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱 I’m a Cybersecurity student at Sheridan College with an existing Computer Programming diploma and some experience as a Network and Systems Administrator. I am an executive for Sheridan's Security Club ISSessions, with my main role being challenge development for our upcoming CTF in 2025.
-🔭 I’m currently working on developing programming, forensic and pwn challenges for the above-mentioned ISSession 2025 CTF. I am also in the process of updating my professional profiles and adding any current and existing projects to be able to have a portfolio of my work.
-⚡ Fun fact: While my studies have been focused on Information Technology, I was a collegiate athlete in both soccer and volleyball and have given back to the sport by coaching youth travel volleyball in the OVA though I have taken a hiatus as I pursue my current degree.
+🌱 I’m a Cybersecurity student at Sheridan College with an existing Computer Programming diploma and some experience as a Network and Systems Administrator. I am an executive for Sheridan's Security Club ISSessions, with my main role being challenge development for our upcoming CTF in 2025.<br>
+🔭 I’m currently working on developing programming, forensic and pwn challenges for the above-mentioned ISSession 2025 CTF. I am also in the process of updating my professional profiles and adding any current and existing projects to be able to have a portfolio of my work.<br>
+⚡ Fun fact: While my studies have been focused on Information Technology, I was a collegiate athlete in both soccer and volleyball and have given back to the sport by coaching youth travel volleyball in the OVA though I have taken a hiatus as I pursue my current degree.<br>
